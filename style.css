@@ -1,7 +1,17 @@
-img {width: 300px;
-      height:auto;
-      margin-left: 50%;
-margin-right: 50%;}
+img {width: 600px;
+      display: block;
+      margin: 0 auto;
+border: 5px solid burlywood;}
+
+
 h1 {text-align: center;
 color: darkslategray;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}      
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 60px;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px}      
+p {font-size: medium;
+text-align: center;}
+
+html {background-color: lightgray;}
