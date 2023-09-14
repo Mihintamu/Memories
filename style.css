@@ -1,3 +1,7 @@
-.top {max-block-size: 50;
-      align-items: center;}
-h1 {text-align: center;}      
+img {width: 300px;
+      height:auto;
+      margin-left: 50%;
+margin-right: 50%;}
+h1 {text-align: center;
+color: darkslategray;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}      
