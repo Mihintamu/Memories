@@ -20,12 +20,12 @@ h1 {text-align: center;
   
 p {font-size: x-large;
   text-align: center;
-color:white;
+color: black;
 -webkit-text-stroke: 1px #000000;
 	text-shadow: -1px 1px 2px #000000,
 1px 1px 2px #23430C,
-1px -1px 0 #000000,
--1px -1px 0 #000000;;
+1px -1px 0 #ffffff,
+-1px -1px 0 #f0ff68;;
 margin-top: -3px;}
 
 img[src*="212642"] {width: 600px;
@@ -39,16 +39,16 @@ img[src*="212642"] {width: 600px;
     margin-top: 50px;
     margin-right: auto;
     margin-left: auto;
-    border: 5px black;
-    padding: 10px;
-    background: rgb(170,169,184);
-    background: linear-gradient(90deg, rgba(170,169,184,1) 0%, rgba(91,166,80,1) 53%, rgba(104,129,156,1) 84%);}
+    padding: 15px;
+    border: 8px solid rgb(170,169,184);
+    border: linear-gradient(90deg, rgba(170,169,184,1) 0%, rgba(91,166,80,1) 53%, rgba(104,129,156,1) 84%);}
 
 
 .images:hover {width: 600px;
   display: block;
   margin: 0 auto;
-  border: 5px black;}
+  border: 8px solid rgb(170,169,184);
+  border: linear-gradient(90deg, rgba(170,169,184,1) 0%, rgba(91,166,80,1) 53%, rgba(104,129,156,1) 84%);}
 
 
 #top {height:150px;
