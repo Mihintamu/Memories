@@ -58,3 +58,9 @@ img[src*="212642"] {width: 600px;
   object-fit: contain;
   padding-left: 0px;
   margin-bottom: -181px;}
+
+  video {margin-top: 150px;
+  transform: rotate(270deg);
+  margin-right: auto;
+  margin-left: auto;
+box-sizing: border-box;}
